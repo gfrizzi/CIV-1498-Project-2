@@ -16,3 +16,6 @@ project2-geopandas-1 contains the actual neighborhood cleaning code
 P2_geoplots_FINAL contains the actual geoplots code
 
 ML_bike contains the machine learning model creation code
+
+Data:
+  - could not upload toronto bike share data (but got it from quercus project page) because file size too big
