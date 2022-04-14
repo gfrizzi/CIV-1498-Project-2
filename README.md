@@ -17,5 +17,6 @@ P2_geoplots_FINAL contains the actual geoplots code
 
 ML_bike contains the machine learning model creation code
 
-Data:
+Bike Share Toronto Data:
   - could not upload toronto bike share data (but got it from quercus project page) because file size too big
+  - link: https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
