@@ -1,0 +1,738 @@
+,Station Name,Neighbourhood
+0,Fort York  Blvd / Capreol Ct,Waterfront Communities-The Island 
+1,Wellesley Station Green P,Church-Yonge Corridor 
+2,St. George St / Bloor St W,University 
+3,Madison Ave / Bloor St W,Annex 
+4,University Ave / Elm St,Kensington-Chinatown 
+5,King St W / York St,Bay Street Corridor 
+6,Bay St / College St (East Side),Bay Street Corridor 
+7,College St / Huron St,Kensington-Chinatown 
+8,Wellesley St / Queen's Park Cres,Bay Street Corridor 
+9,King St E / Jarvis St,Church-Yonge Corridor 
+10,King St W / Spadina Ave,Waterfront Communities-The Island 
+11,Wellington St W / Portland St,Waterfront Communities-The Island 
+12,Elizabeth St / Edward St (Bus Terminal),Bay Street Corridor 
+13,Scott St / The Esplanade,Waterfront Communities-The Island 
+14,Sherbourne St / Carlton St (Allan Gardens),Moss Park 
+15,King St W / Bay St (West Side),Bay Street Corridor 
+16,Bay St / Queens Quay W (Ferry Terminal),Waterfront Communities-The Island 
+17,Widmer St / Adelaide St W,Waterfront Communities-The Island 
+18,Bremner Blvd / Rees St,Waterfront Communities-The Island 
+19,Temperance St. Station,Bay Street Corridor 
+20,Phoebe St / Spadina Ave,Kensington-Chinatown 
+21,Bay St / Albert St,Bay Street Corridor 
+22,Simcoe St / Queen St W,Bay Street Corridor 
+23,College St / Borden St,University 
+24,Dundonald St / Church St,Church-Yonge Corridor 
+25,Ted Rogers Way / Bloor St E,Church-Yonge Corridor 
+26,Bay St / St. Joseph St,Bay Street Corridor 
+27,Beverley  St / Dundas St W,Kensington-Chinatown 
+28,Gould St / Mutual St,Church-Yonge Corridor 
+29,Bay St / Bloor St W (East Side),Bay Street Corridor 
+30,Bay St / Wellesley St W,Bay Street Corridor 
+31,Jarvis St / Isabella St,North St.James Town 
+32,Augusta Ave / Dundas St W,Kensington-Chinatown 
+33,Union Station,Waterfront Communities-The Island 
+34,Church St / Bloor St E,Rosedale-Moore Park 
+35,Queen St W / Ossington Ave,Niagara 
+36,Trinity St /Front St E,Waterfront Communities-The Island 
+37,Bathurst St / Dundas St W,Kensington-Chinatown 
+38,Dundas St W / Yonge St,Bay Street Corridor 
+39,Simcoe St / Michael Sweet Ave,Kensington-Chinatown 
+40,Euclid Ave / Bloor St W,Annex 
+41,Edward St / Yonge St,Bay Street Corridor 
+42,Sherbourne St / Wellesley St E,North St.James Town 
+43,Queens Quay W / Lower Simcoe St,Waterfront Communities-The Island 
+44,Church St / Alexander St,Church-Yonge Corridor 
+45,Bond St / Queen St E,Church-Yonge Corridor 
+46,Niagara St / Richmond St W,Niagara 
+47,University Ave / Gerrard St W (East Side),Bay Street Corridor 
+48,Front St W / Yonge St (Hockey Hall of Fame),Waterfront Communities-The Island 
+49,Queen St W / Portland St,Waterfront Communities-The Island 
+50,Richmond St E / Jarvis St Green P,Church-Yonge Corridor 
+51,Wellington St W / Bay St,Bay Street Corridor 
+52,Metro Hall Plaza,Waterfront Communities-The Island 
+53,Navy Wharf Ct. / Bremner Blvd.,Waterfront Communities-The Island 
+54,Jarvis St / Carlton St,Moss Park 
+55,Parliament St / Gerrard St,Regent Park 
+56,Simcoe St / Wellington St South,Bay Street Corridor 
+57,Huron/ Harbord St,University 
+58,Front St W / Blue Jays Way,Waterfront Communities-The Island 
+59,Princess St / Adelaide St E,Moss Park 
+60,Dalton Rd / Bloor St W,Annex 
+61,University Ave / College St (West),Kensington-Chinatown 
+62,Queen's Park / Bloor St W,Bay Street Corridor 
+63,51 Parliament St,Moss Park 
+64,Dundas St E / Parliament St,Regent Park 
+65,Willcocks St / St. George St,University 
+66,Yonge St / Harbour St,Waterfront Communities-The Island 
+67,Blantyre Park,Birchcliffe-Cliffside 
+68,Queen St W / Spadina Ave,Kensington-Chinatown 
+69,25 York St – Union Station South,Waterfront Communities-The Island 
+70,161 Bleecker St (South of Wellesley),Cabbagetown-South St.James Town 
+71,Fleet St / Bathurst St,Niagara 
+72,Spadina Ave / Fort York Blvd,Waterfront Communities-The Island 
+73,King St E / Church St,Church-Yonge Corridor 
+74,Queens Quay W / Dan Leckie Way,Waterfront Communities-The Island 
+75,York St / Queens Quay W,Waterfront Communities-The Island 
+76,College Park South,Bay Street Corridor 
+77,College St / Major St,University 
+78,McGill St / Church St,Church-Yonge Corridor 
+79,Danforth Ave / Barrington Ave,East End-Danforth 
+80,High Park - Grenadier Cafe,High Park-Swansea 
+81,Danforth Ave / Westlake Ave,East End-Danforth 
+82,High Park - West Rd,High Park-Swansea 
+83,Danforth Ave / Aldridge Ave,Woodbine Corridor 
+84,Danforth Ave / Coxwell Ave,Woodbine Corridor 
+85,Church St  / Wood St,Church-Yonge Corridor 
+86,Danforth Ave / Lamb Ave,Greenwood-Coxwell 
+87,Donlands Station,Danforth 
+88,Pape Subway Green P,Danforth 
+89,Danforth Ave / Gough Ave,North Riverdale 
+90,Chester Station,Playter Estates-Danforth 
+91,Danforth Ave / Ellerbeck St,Playter Estates-Danforth 
+92,Lower Don River Trail and Taylor Creek Trail,Old East York 
+93,Riverdale Park North (Broadview Ave),North Riverdale 
+94,Riverdale Park South (Broadview Ave),North Riverdale 
+95,Cherry St / Mill St,Waterfront Communities-The Island 
+96,Dundas St E / Regent Park Blvd,Regent Park 
+97,Lower Sherbourne St / The Esplanade,Waterfront Communities-The Island 
+98,Nelson St / Duncan St,Waterfront Communities-The Island 
+99,Jimmie Simpson Park (Queen St E),South Riverdale 
+100,King St E / River St,Moss Park 
+101,Queen St E / Sackville St,Moss Park 
+102,Mill St / Tannery Rd,Waterfront Communities-The Island 
+103,Cherry St / Distillery Ln,Waterfront Communities-The Island 
+104,Front St E / Cherry St,Waterfront Communities-The Island 
+105,Seaton St / Dundas St E - SMART,Moss Park 
+106,Queen St E / Berkeley St,Moss Park 
+107,King St W / Douro St,Niagara 
+108,Liberty St / Fraser Ave Green P,South Parkdale 
+109,Parliament St / Aberdeen Ave,Cabbagetown-South St.James Town 
+110,Carlton St / Parliament St,Cabbagetown-South St.James Town 
+111,Howard St / Sherbourne St,North St.James Town 
+112,640 Bloor Street E,Rosedale-Moore Park 
+113,King St W / Bay St (East Side),Bay Street Corridor 
+114,Sumach St / Carlton St. (Riverdale Farm),Cabbagetown-South St.James Town 
+115,Gerrard St E / River St,Cabbagetown-South St.James Town 
+116,Jarvis St / Dundas St E,Church-Yonge Corridor 
+117,Niagara St / Tecumseth St,Niagara 
+118,424 Wellington St W,Waterfront Communities-The Island 
+119,Dundas St E / Broadview Ave,South Riverdale 
+120,Yonge St / Yorkville Ave,Annex 
+121,Bay St / Scollard St,Annex 
+122,Yonge St / Aylmer Ave,Rosedale-Moore Park 
+123,Davenport Rd / Avenue Rd,Annex 
+124,Davenport Rd / Bedford Rd,Annex 
+125,Taddle Creek Park,Annex 
+126,Kendal Ave / Spadina Rd,Annex 
+127,Summerhill Station,Rosedale-Moore Park 
+128,Marlborough Ave / Yonge St,Annex 
+129,Hanna Ave / Liberty St,Niagara 
+130,Queen St W / Close Ave,South Parkdale 
+131,Davenport Rd / Bathurst St,Wychwood 
+132,Davenport Rd / Christie St,Wychwood 
+133,Glen Edyth Dr / Davenport Rd,Casa Loma 
+134,Macpherson Ave / Spadina Rd,Casa Loma 
+135,Bridgeman Ave / Kendal Ave,Casa Loma 
+136,Bridgeman Ave / Bathurst St,Casa Loma 
+137,Kendal Ave / Bernard Ave,Annex 
+138,Palmerston Ave / Vermont Ave,Annex 
+139,Christie St / Benson Ave (Wychwood Barns),Wychwood 
+140,King St W / Fraser Ave,South Parkdale 
+141,King St W / Joe Shuster Way,South Parkdale 
+142,Yarmouth Rd / Christie St,Annex 
+143,Dufferin St / Sylvan Av (Dufferin Grove Park),Dufferin Grove 
+144,Essex St / Christie St - SMART,Annex 
+145,Ossington Ave / Bloor St W,Palmerston-Little Italy 
+146,Bloor St W / Christie St,Dovercourt-Wallace Emerson-Junction 
+147,Bathurst Subway Station,Annex 
+148,Bathurst St / Lennox St,University 
+149,Salem Ave / Bloor St W,Dovercourt-Wallace Emerson-Junction 
+150,Dufferin St / Bloor St,Dovercourt-Wallace Emerson-Junction 
+151,King St W / Stafford St,Niagara 
+152,King St W / Tecumseth St,Niagara 
+153,Beverley St / College St,Kensington-Chinatown 
+154,Hayter St / Laplante Ave,Bay Street Corridor 
+155,Yonge St / Wood St,Church-Yonge Corridor 
+156,Gould St / Yonge St (Ryerson University),Church-Yonge Corridor 
+157,Queen St E / George St (Moss Park),Moss Park 
+158,Queens Quay / Yonge St,Waterfront Communities-The Island 
+159,Front St W / Bay St (North Side),Bay Street Corridor 
+160,Spadina Ave / Willcocks St,University 
+161,Ontario Place Blvd / Lake Shore Blvd W (East),Niagara 
+162,Strachan Ave / Princes' Blvd,Niagara 
+163,Cariboo St / Rail Path,Dovercourt-Wallace Emerson-Junction 
+164,Bloor St W / Dundas St W,Roncesvalles 
+165,HTO Park (Queens Quay W),Waterfront Communities-The Island 
+166,Bathurst St / Fort York Blvd,Waterfront Communities-The Island 
+167,East Liberty St / Pirandello St,Niagara 
+168,Dundas St W / Edna Ave,High Park North 
+169,Bloor GO / UP Station (West Toronto Railpath),Dovercourt-Wallace Emerson-Junction 
+170,Lansdowne Subway Station,Dovercourt-Wallace Emerson-Junction 
+171,Lansdowne Ave / Whytock Ave,Dufferin Grove 
+172,Sterling Rd / Dundas St W,Dufferin Grove 
+173,St Clarens Ave / College St,Dufferin Grove 
+174,Ossington Ave / College St,Palmerston-Little Italy 
+175,Exhibition GO (Atlantic Ave),Niagara 
+176,Augusta Ave / Denison Sq,Kensington-Chinatown 
+177,St. George St / Hoskin Ave,University 
+178,Central Tech  (Harbord St),University 
+179,Harbord St / Clinton St,Palmerston-Little Italy 
+180,Queen St W / Gladstone Ave,Little Portugal 
+181,Mortimer Ave / Coxwell Ave,Danforth East York 
+182,Ulster St / Bathurst St,University 
+183,Roxton Rd / Harbord St,Palmerston-Little Italy 
+184,Queen St W / Dovercourt Rd,Little Portugal 
+185,Queen St W / Cowan Ave,South Parkdale 
+186,College St / Markham St,Palmerston-Little Italy 
+187,Queen St W / York St (City Hall),Bay Street Corridor 
+188,Bathurst St/Queens Quay(Billy Bishop Airport),Niagara 
+189,College St / Crawford St,Trinity-Bellwoods 
+190,Rusholme Park Cres / College St,Little Portugal 
+191,Claremont St / Dundas St W,Trinity-Bellwoods 
+192,Dundas St W / Crawford St,Trinity-Bellwoods 
+193,80 Clinton St (North of College),Palmerston-Little Italy 
+194,Ossington Ave / Harrison St,Trinity-Bellwoods 
+195,Mary McCormick Rec Centre (Sheridan Ave),Little Portugal 
+196,Fort York Blvd / Garrison Rd,Niagara 
+197,Wellington St W / Stafford St,Niagara 
+198,Soho St / Queen St W,Kensington-Chinatown 
+199,Lake Shore Blvd W / Ellis Ave,South Parkdale 
+200,High Park Subway Station,High Park North 
+201,Sunnyside - Gus Ryder Pool,South Parkdale 
+202,Parkside Dr / Bloor St W - SMART,High Park-Swansea 
+203,Bloor St W / High Park Ave (High Park),High Park-Swansea 
+204,Lake Shore Blvd W / Windermere Ave,South Parkdale 
+205,Lake Shore Blvd W / The Boulevard Club,South Parkdale 
+206,Martin Goodman Trail (Marilyn Bell Park),South Parkdale 
+207,Queen St W / Roncesvalles Ave,South Parkdale 
+208,Dundas St W / Roncesvalles Green P - SMART,Roncesvalles 
+209,Garden Ave / Roncesvalles Ave,Roncesvalles 
+210,Wright / Sorauren (Sorauren Park) - SMART,Roncesvalles 
+211,Queen St W  /  Fuller Ave - SMART,Roncesvalles 
+212,King / Cowan Ave - SMART,South Parkdale 
+213,Roncesvalles Ave / Marmaduke St,High Park-Swansea 
+214,Bay St / College St (West Side) - SMART,Bay Street Corridor 
+215,Thompson St / Broadview Ave - SMART,South Riverdale 
+216,Ward Ave / Wallace Ave,Dovercourt-Wallace Emerson-Junction 
+217,Sorauren/Geoffrey (Sorauren Park) - SMART,Roncesvalles 
+218,Bloor St W / Manning Ave - SMART,Palmerston-Little Italy 
+219,Bloor St W / Shaw Ave - SMART,Palmerston-Little Italy 
+220,519 Church St - SMART,Church-Yonge Corridor 
+221,Lake Shore Blvd W / Ontario Dr,Niagara 
+222,Exhibition GO Station,Niagara 
+223,Dufferin Gate - SMART,Niagara 
+224,Tecumseth St / Queen St W - SMART,Niagara 
+225,Yonge St / Bloor St,Church-Yonge Corridor 
+226,Howard Park Ave / Dundas St W - SMART,Roncesvalles 
+227,Baldwin Ave / Spadina Ave - SMART,Kensington-Chinatown 
+228,Dovercourt Rd / Harrison St (Green P) - SMART,Trinity-Bellwoods 
+229,St. George St / Russell St - SMART,University 
+230,The Royal Ontario Museum (Bloor St Entrance),Bay Street Corridor 
+231,Robert St / Bloor St W - SMART,University 
+232,John St  / Mercer St - SMART,Waterfront Communities-The Island 
+233,Stewart St / Bathurst St  - SMART,Waterfront Communities-The Island 
+234,Vanauley St / Queen St W - SMART,Kensington-Chinatown 
+235,Dundas St W / St. Patrick St,Kensington-Chinatown 
+236,Queen St E / Rushbrooke Ave,South Riverdale 
+237,Lower Spadina Ave / Lake Shore Blvd,Waterfront Communities-The Island 
+238,Spadina Ave / Adelaide St W,Waterfront Communities-The Island 
+239,Queens Quay E / Lower Sherbourne St,Waterfront Communities-The Island 
+240,Wychwood Ave / Benson Ave - SMART,Wychwood 
+241,Walton St / Elizabeth St - SMART,Bay Street Corridor 
+242,Bloor St E / Huntley St - SMART,North St.James Town 
+243,Wallace Ave / Symington Ave - SMART,Dovercourt-Wallace Emerson-Junction 
+244,Victoria Park Subway Station - SMART,Oakridge 
+245,Dundas St E / Pembroke St - SMART,Moss Park 
+246,111 Bond St (North of Dundas St E)  - SMART,Church-Yonge Corridor 
+247,Toronto Eaton Centre (Yonge St),Bay Street Corridor 
+248,Church St / Dundas St E - SMART,Church-Yonge Corridor 
+249,Yonge St / Alexander St - SMART,Church-Yonge Corridor 
+250,Yonge St / Dundonald St - SMART,Church-Yonge Corridor 
+251,Bay St / Charles St - SMART,Bay Street Corridor 
+252,Queen's Park Cres E / Grosvenor St - SMART,Bay Street Corridor 
+253,Queen St W / James St,Bay Street Corridor 
+254,Bloor St W / Balmuto St,Bay Street Corridor 
+255,Chorley Park - SMART,Rosedale-Moore Park 
+256,Mallon Ave / Jones Ave -SMART,South Riverdale 
+257,Rosehill Ave / Avoca Ave - SMART,Rosedale-Moore Park 
+258,Charles St E / Jarvis St - SMART,Church-Yonge Corridor 
+259,Charles St W / Balmuto St - SMART,Bay Street Corridor 
+260,Adelaide St W / Bay St - SMART,Bay Street Corridor 
+261,Front St W / Bay St (South Side),Waterfront Communities-The Island 
+262,University Ave / King St W - SMART,Bay Street Corridor 
+263,Spadina Ave / Harbord St - SMART,University 
+264,Gerrard St E / Broadview - SMART,North Riverdale 
+265,Queen St E / Pape Ave - SMART,South Riverdale 
+266,Humber Bay Shores Park West,Mimico 
+267,Humber Bay Shores Park East,Mimico 
+268,190 Queens Quay E,Waterfront Communities-The Island 
+269,Granby St / Church St - SMART,Church-Yonge Corridor 
+270,College St / McCaul St,Kensington-Chinatown 
+271,Westmoreland Ave / Fernbank Ave,Dovercourt-Wallace Emerson-Junction 
+272,Havelock St / Dufferin Park,Dufferin Grove 
+273,Bathurst St / Adelaide St W,Niagara 
+274,Mill St / Parliament St,Waterfront Communities-The Island 
+275,Primrose Ave / Davenport Rd,Dovercourt-Wallace Emerson-Junction 
+276,Winona Dr / Davenport Rd,Wychwood 
+277,Queen St E / Woodward Ave,Greenwood-Coxwell 
+278,Queen St. E / Rhodes Ave.,Greenwood-Coxwell 
+279,Sherbourne St / Isabella St,North St.James Town 
+280,Amelia St. / Sumach St.,Cabbagetown-South St.James Town 
+281,Coxwell Ave /  Lake Shore Blvd E,The Beaches 
+282,Queen St. E / Eastern Ave,The Beaches 
+283,Queen St E / Hammersmith Ave,The Beaches 
+284,Queen St. E / Spruce Hill Rd.,The Beaches 
+285,Hubbard Blvd / Balsam Av,The Beaches 
+286,Hubbard Blvd. / Glen Manor Dr.,The Beaches 
+287,Lake Shore Blvd E / Knox Ave,The Beaches 
+288,Front St W / University Ave (1),Bay Street Corridor 
+289,Front St W / University Ave (2),Bay Street Corridor 
+290,E Liberty St / Western Battery Rd,Niagara 
+291,457 King St. W. at Spadina,Waterfront Communities-The Island 
+292,King St W / Charlotte St (West Side),Waterfront Communities-The Island 
+293,Davenport Rd / Lansdowne Ave,Corso Italia-Davenport 
+294,Davenport Rd / Oakwood Rd - SMART,Dovercourt-Wallace Emerson-Junction 
+295,Roxborough St W / Yonge St,Annex 
+296,Crawford St / Queen St W,Trinity-Bellwoods 
+297,Lee Ave / Queen St E,The Beaches 
+298,Coxwell Ave / Plains Rd,Old East York 
+299,200 Bloor St. E.,Rosedale-Moore Park 
+300,King St E / Victoria St,Church-Yonge Corridor 
+301,Simcoe St / Wellington St North,Bay Street Corridor 
+302,Bay St / Bloor St W (West Side),Bay Street Corridor 
+303,Queen St E / Alton Av,South Riverdale 
+304,Gerrard Square Mall (1010 Gerrard St E),South Riverdale 
+305,Logan Ave / Bain Ave,North Riverdale 
+306,Carlaw Ave / Strathcona Ave,North Riverdale 
+307,Blake St / Boultbee Ave,Blake-Jones 
+308,Eastern Ave / Winnifred Ave,South Riverdale 
+309,Morse St / Eastern Ave,South Riverdale 
+310,Alton Ave / Dundas St E (Greenwood Park),South Riverdale 
+311,Cherry Beach,South Riverdale 
+312,Cherry Beach Sports Field (55 Unwin Ave),South Riverdale 
+313,Logan Av / Gerrard St E,North Riverdale 
+314,Regal Rd / Dufferin St,Corso Italia-Davenport 
+315,Pape Ave / Gamble Ave,Broadview North 
+316,Gamble Ave / Broadview Ave,Broadview North 
+317,Broadview Ave / Westwood Ave,Broadview North 
+318,Pretoria Av / Broadview Av,Playter Estates-Danforth 
+319,Cosburn Ave / Donlands Ave,Danforth East York 
+320,Fulton Ave / Pape Ave,Broadview North 
+321,Tommy Thompson Park (Leslie Street Spit),South Riverdale 
+322,Beltline Trail / Chaplin Cres.,Forest Hill North 
+323,King St E / Ontario St.,Moss Park 
+324,Lake Shore Blvd E / Leslie St,South Riverdale 
+325,Rosedale Park (20 Schofield Ave),Rosedale-Moore Park 
+326,Concord Av / Dewson St,Palmerston-Little Italy 
+327,Hocken Ave./Vaughan Rd.,Wychwood 
+328,St Clair Ave W / Bathurst St.,Wychwood 
+329,Wells Hill Ave / St Clair Ave W,Casa Loma 
+330,Queen St E / Nursewood Rd (Neville Park Loop),The Beaches 
+331,Kew Beach Ave / Kenilworth Ave,The Beaches 
+332,Fort York Blvd / Bathurst St SMART,Waterfront Communities-The Island 
+333,Alma Ave / Gladstone Ave SMART,Little Portugal 
+334,Lisgar St / Dundas St SMART,Little Portugal 
+335,Dupont St / Emerson Ave SMART,Dovercourt-Wallace Emerson-Junction 
+336,Eglinton Ave W / Henning Ave SMART,Yonge-Eglinton 
+337,Adelaide St W / Portland St,Waterfront Communities-The Island 
+338,George St / King St E,Moss Park 
+339,Frederick St / The Esplanade,Waterfront Communities-The Island 
+340,Front St E / Scott St,Church-Yonge Corridor 
+341,Frobisher Ave / Lascelles Blvd,Yonge-Eglinton 
+342,Balliol St / Yonge St  SMART,Mount Pleasant West 
+343,Yonge St / Davisville Ave,Yonge-Eglinton 
+344,Lawton Blvd / Yonge St,Yonge-St.Clair 
+345,Erskine Ave / Yonge St SMART,Mount Pleasant West 
+346,Yonge St / Orchard View Blvd,Yonge-Eglinton 
+347,Simcoe St / Adelaide St W,Bay Street Corridor 
+348,12 Harbour St,Waterfront Communities-The Island 
+349,Cumberland Ave / Bay St SMART,Annex 
+350,20 Charles St E,Church-Yonge Corridor 
+351,D'Arcy St. /McCaul St. SMART,Kensington-Chinatown 
+352,Mortimer Ave / Carlaw Ave SMART,Broadview North 
+353,Broadview Ave / Danforth Ave,Playter Estates-Danforth 
+354,College Park- Gerrard Entrance,Bay Street Corridor 
+355,Yonge St / Dundas Sq,Church-Yonge Corridor 
+356,Woodbine Subway Green P SMART,East End-Danforth 
+357,Dentonia Park,Taylor-Massey 
+358,York St / Lakeshore St W - South,Waterfront Communities-The Island 
+359,Lower Jarvis / Queens Quay E,Waterfront Communities-The Island 
+360,Polson Pier,South Riverdale 
+361,Lascelles Blvd / Eglinton Ave W,Yonge-Eglinton 
+362,Roehampton Ave / Mount Pleasant Rd,Mount Pleasant West 
+363,Victoria St / Queen St E,Church-Yonge Corridor 
+364,University Ave / Queen St W,Bay Street Corridor 
+365,University Ave / Armoury St,Kensington-Chinatown 
+366,Isabella St / Church St,Church-Yonge Corridor 
+367,Howard St / Rose Ave,North St.James Town 
+368,Little Norway Park,Niagara 
+369,King St W / Crawford St,Niagara 
+370,Dundas St W / Watkinson Ave,Junction Area 
+371,Keele St / Annette St,Junction Area 
+372,Keele St / Vine Ave,Junction Area 
+373,Spadina Ave / Blue Jays Way,Waterfront Communities-The Island 
+374,King St W / Jordan St,Bay Street Corridor 
+375,College Park - Yonge St Entrance,Bay Street Corridor 
+376,Bloor St W / Huron St,University 
+377,Barton St / Howland St - SMART,Annex 
+378,Tyndall Ave / King St W - SMART,South Parkdale 
+379,Merton St / Al Green Ln,Mount Pleasant West 
+380,Merton St / Mount Pleasant Rd,Mount Pleasant West 
+381,The Queensway at South Kingsway,High Park-Swansea 
+382,Fleet St / Garrison Rd (Fort York),Niagara 
+383,Northern Dancer Blvd / Lake Shore Blvd E,South Riverdale 
+384,Woodbine Ave / Lake Shore Blvd E,South Riverdale 
+385,Woodbine Subway Station,Danforth East York 
+386,Marilyn Bell Park Tennis Court,South Parkdale 
+387,Gerrard St E / Leslie St,South Riverdale 
+388,Frederick St / King St E,Moss Park 
+389,Dundas St E / Boulton Ave - SMART,South Riverdale 
+390,Via Italia / Mackay Ave,Corso Italia-Davenport 
+391,Rushton Rd / St Clair Ave W,Wychwood 
+392,Concord Ave / Bloor St W,Dovercourt-Wallace Emerson-Junction 
+393,High Park Subway,High Park North 
+394,Martin Goodman Trail / Ontario Dr,Niagara 
+395,Pacific Ave / Glenlake Ave,High Park North 
+396,Lonsdale Rd / Spadina Rd,Forest Hill South 
+397,Dundas St E / George St,Moss Park 
+398,Clendenan Ave / Rowland St - SMART,High Park North 
+399,Eastwood Rd / Coxwell Ave,Woodbine Corridor 
+400,Orchard Park,Woodbine Corridor 
+401,Trent Ave / Danforth Ave,East End-Danforth 
+402,Goodwood Park Ct / Dentonia Park,Taylor-Massey 
+403,Cosburn Ave / Cedarvale Ave,Woodbine-Lumsden 
+404,Carlaw Ave / Danforth Ave,North Riverdale 
+405,Western Battery Rd / Pirandello St,Niagara 
+406,Bleecker St / St James Ave,North St.James Town 
+407,Jarvis St / Maitland Pl,Cabbagetown-South St.James Town 
+408,Pottery Rd / Lower Don River Trail,Broadview North 
+409,E.T. Seton Park (Eglinton Ave E / Leslie St),Flemingdon Park 
+410,Queen's Park Cres W / Hoskin Ave,University 
+411,Church St / Lombard St,Church-Yonge Corridor 
+412,St Clair Ave W / Winona Ave,Wychwood 
+413,High Park Outdoor Pool,High Park-Swansea 
+414,High Park Amphitheatre,High Park-Swansea 
+415,Richmond St E / Yonge St,Church-Yonge Corridor 
+416,Adelaide St W / Brant St,Waterfront Communities-The Island 
+417,Russell Hill Rd / St Clair Ave W,Casa Loma 
+418,Glendonwynne Ave / Bloor St W,High Park North 
+419,Lower Simcoe St / Bremner Blvd,Waterfront Communities-The Island 
+420,Front St / Simcoe St,Waterfront Communities-The Island 
+421,Wellington St W / York St,Bay Street Corridor 
+422,Lake Shore Blvd W / Louisa St,Mimico 
+423,Dundas St E / Victoria St,Church-Yonge Corridor 
+424,Adelaide St W / Strachan Ave,Niagara 
+425,Clarence Square,Waterfront Communities-The Island 
+426,Jarvis St / Richmond St E,Moss Park 
+427,Symington Ave / Dupont St,Dovercourt-Wallace Emerson-Junction 
+428,Antler St / Campbell Ave - SMART,Dovercourt-Wallace Emerson-Junction 
+429,Ellis Ave / The Queensway,High Park-Swansea 
+430,Jane St / Bloor St W (Jane Subway Station),Lambton Baby Point 
+431,Neil McLellan Park,Runnymede-Bloor West Village 
+432,Danforth Ave / Sibley Ave,Taylor-Massey 
+433,Southwood Dr / Kingston Rd - SMART,The Beaches 
+434,Briar Hill Ave / Yonge St - SMART,Yonge-Eglinton 
+435,Blythwood Rd / Yonge St - SMART,Mount Pleasant East 
+436,Gerrard St E / Ted Reeve Dr,East End-Danforth 
+437,Eastwood Rd / Woodbine Ave - SMART,Woodbine Corridor 
+438,Summerhill Ave / Maclennan Ave,Rosedale-Moore Park 
+439,Sumach St  / Queen St E,Moss Park 
+440,D'Arcy St / Spadina Ave - SMART,Kensington-Chinatown 
+441,324 Cherry St,Waterfront Communities-The Island 
+442,Sackville St / Eastern Ave - SMART,Moss Park 
+443,Davenport Rd / McAlpine St - SMART,Annex 
+444,Sunnyside Ave / The Queensway - SMART,High Park-Swansea 
+445,128 Sterling Ave - SMART,Dufferin Grove 
+446,Humberside Grounds - SMART,High Park North 
+447,University Ave / College St (East),Bay Street Corridor 
+448,Gerrard St E / Malvern Ave - SMART,East End-Danforth 
+449,Gerrard St E / Victoria Park Ave - SMART,East End-Danforth 
+450,Ontario St / Adelaide St E -SMART,Moss Park 
+451,Berkeley St / Adelaide St E - SMART,Moss Park 
+452,Berkeley St / Dundas St E - SMART,Moss Park 
+453,Ontario St / King St E,Moss Park 
+454,Humber Bay Shores Park / Marine Parade Dr,Mimico 
+455,Amos Waites Park,Mimico 
+456,Superior Ave / Lake Shore Blvd W,Mimico 
+457,Ripley Ave / Ormskirk Ave,High Park-Swansea 
+458,Lake Shore Blvd W / Colborne Lodge Dr,South Parkdale 
+459,406 Oakwood Ave,Oakwood Village 
+460,St Clarens Ave / Shirley Ave,Little Portugal 
+461,Emerson Ave / Bloor St W,Dovercourt-Wallace Emerson-Junction 
+462,Wallace Ave / Pauline Ave,Dovercourt-Wallace Emerson-Junction 
+463,Lynn Williams St / East Liberty St - SMART,Niagara 
+464,Lisgar Park,Little Portugal 
+465,Fennings St / Queen St W,Trinity-Bellwoods 
+466,Bartlett Parkette,Dovercourt-Wallace Emerson-Junction 
+467,Joseph J Piccininni Community Centre,Corso Italia-Davenport 
+468,Spadina Rd / Austin Terrace,Casa Loma 
+469,Symington Ave / Davenport Rd,Weston-Pellam Park 
+470,Sherbourne St N / Elm Ave,Rosedale-Moore Park 
+471,541 Huron St - SMART,Annex 
+472,Housey St / Dan Leckie Way,Waterfront Communities-The Island 
+473,Walnut Ave / Queen St W,Niagara 
+474,Wolsley St / Palmerston Ave - SMART,Trinity-Bellwoods 
+475,Palmerston Ave / Dundas St W,Trinity-Bellwoods 
+476,Euclid Ave / Herrick St - SMART,Palmerston-Little Italy 
+477,Vaughan Rd /Wychwood Ave,Humewood-Cedarvale 
+478,Davisville Ave / Pailton Cres,Mount Pleasant West 
+479,Alvin Ave / St Clair Ave E,Rosedale-Moore Park 
+480,Bellwoods Ave / Treford Pl - SMART,Trinity-Bellwoods 
+481,Queen St W / John St,Kensington-Chinatown 
+482,Nassau St / Bellevue Ave,Kensington-Chinatown 
+483,Foster Pl / Elizabeth St,Bay Street Corridor 
+484,Baldwin St / Henry St,Kensington-Chinatown 
+485,Ross St / Cecil St - SMART,Kensington-Chinatown 
+486,Orde St / McCaul St,Kensington-Chinatown 
+487,St Joseph St / Bay St - SMART,Bay Street Corridor 
+488,439 Sherbourne St,Cabbagetown-South St.James Town 
+489,The Esplanade / Hahn Pl,Waterfront Communities-The Island 
+490,Lake Shore Blvd W / Thirty Ninth Street,Long Branch 
+491,Lake Shore Blvd W / Twenty Fourth St,Long Branch 
+492,Humber College,New Toronto 
+493,Royal York Rd / Mimico Ave,Mimico 
+494,Windsor St / Newcastle St,Mimico 
+495,The Queensway / High St,Stonegate-Queensway 
+496,Berry Rd / Bell Manor Dr,Stonegate-Queensway 
+497,Swansea Community Centre,High Park-Swansea 
+498,Glenwood Ave / Runnymede Rd,High Park North 
+499,Annette St / Jane St,Runnymede-Bloor West Village 
+500,Priscilla  Ave / Dundas St W,Runnymede-Bloor West Village 
+501,St Clair Ave W / Castleton Ave,Rockcliffe-Smythe 
+502,Durie St / Dundas St W,Runnymede-Bloor West Village 
+503,St Clair Ave W / Gunns Rd,Junction Area 
+504,Weston Rd / St Clair Ave W - SMART,Junction Area 
+505,Weston Lions Park,Weston 
+506,Jameson Ave / Queen St W,South Parkdale 
+507,Toronto Inukshuk Park,Niagara 
+508,Carlaw Ave / Dundas St E,South Riverdale 
+509,Highfield Rd / Gerrard St E,Greenwood-Coxwell 
+510,Cosburn Ave / Durant Ave,Danforth East York 
+511,Bayview Ave / Lawren Harris Square,Waterfront Communities-The Island 
+512,Front St E / Bayview Avenue,Waterfront Communities-The Island 
+513,Oak St / Sumach St,Regent Park 
+514,Oak St / Parliament St,Regent Park 
+515,Glebe Rd W / Yonge St,Yonge-Eglinton 
+516,Hillsdale Ave W / Yonge St,Yonge-Eglinton 
+517,High Park Ave / Dundas St W,Junction Area 
+518,Alameda Ave / Vaughan Rd - SMART,Oakwood Village 
+519,Eglinton Ave W / Scarlett Rd,Humber Heights-Westmount 
+520,The Pond Rd / Sentinel Rd,York University Heights 
+521,Sentinel Rd / Finch Hydro Corridor,York University Heights 
+522,Finch West Subway Station,York University Heights 
+523,Dufferin St / Finch Hydro Recreational Trail,Bathurst Manor 
+524,G Ross Lord Park,Bathurst Manor 
+525,Torresdale Ave / Antibes Dr,Westminster-Branson 
+526,Esther Shiner Stadium,Westminster-Branson 
+527,Elwood Blvd / Avenue Rd,Yonge-Eglinton 
+528,Roehampton St / Bayview Ave,Mount Pleasant East 
+529,Fleming Cres / Bayview Ave,Leaside-Bennington 
+530,Moore Park,Rosedale-Moore Park 
+531,Langford Ave / Danforth Ave - SMART,Danforth 
+532,Yonge St / Golfdale Rd,Lawrence Park North 
+533,Teddington Park Ave,Lawrence Park North 
+534,Richmond St W / York St,Bay Street Corridor 
+535,Russell St / Huron St - SMART,University 
+536,Brick Works,Leaside-Bennington 
+537,Woodbine Ave / O'Connor Dr,Old East York 
+538,O'Connor Dr / Curity Ave - SMART,O'Connor-Parkview 
+539,St Columba Pl / St Clair Ave E,O'Connor-Parkview 
+540,Lumsden Ave / Eastdale Ave,Taylor-Massey 
+541,Dawes Rd / Taylor Creek Trl,O'Connor-Parkview 
+542,Fairmount Park,Woodbine Corridor 
+543,Wilket Creek Park,Leaside-Bennington 
+544,Sunnybrook Park,Bridle Path-Sunnybrook-York Mills 
+545,Kingston Rd / Beech Ave,The Beaches 
+546,Victoria Park Ave / Danforth Ave,Taylor-Massey 
+547,Livingston Rd / Guildwood Pkwy,Guildwood 
+548,Livingston Rd (Highland Creek Trail),West Hill 
+549,Morningside Park (Highland Creek Trail),Morningside 
+550,Colonel Danforth Park,West Hill 
+551,Waterfront Trail (Rouge Hill),Rouge 
+552,Starspray Ave / Lawrence Ave E,Rouge 
+553,Vaughan Rd / Oakwood Ave,Oakwood Village 
+554,Braemar Ave / Eglinton Ave W,Yonge-Eglinton 
+555,Eglinton Ave E / Redpath Ave,Mount Pleasant West 
+556,Long Branch GO Station,Long Branch 
+557,Marie Curtis Park,Long Branch 
+558,Royal York Rd / Lake Shore Blvd W,Mimico 
+559,Guildwood GO Station (South),Guildwood 
+560,Yonge St / Lawrence Ave,Lawrence Park North 
+561,Rouge Hill GO Station,Rouge 
+562,Shaw St / Essex St - SMART,Dovercourt-Wallace Emerson-Junction 
+563,Lundy Ave / Etienne Brule Park,Lambton Baby Point 
+564,Twelfth St / Thirteenth St,New Toronto 
+565,Florence Gell Park,Lambton Baby Point 
+566,Chiltern Hill Rd / Eglinton Ave W,Humewood-Cedarvale 
+567,Noble St / Queen St W,Roncesvalles 
+568,University Ave / Gerrard St W (WEST) - SMART,Kensington-Chinatown 
+569,Runnymede Rd / Annette St,Runnymede-Bloor West Village 
+570,Bloor St W / Riverside Ave,High Park-Swansea 
+571,Judson St / Royal York,Mimico 
+572,135 Queens Wharf  - SMART,Waterfront Communities-The Island 
+573,Spadina Rd / St.Clair Ave West,Casa Loma 
+574,Annette St / Dundas W,Junction Area 
+575,Yonge St / St Clair Ave,Rosedale-Moore Park 
+576,Oriole Pkwy / Kilbarry Rd,Forest Hill South 
+577,East Lynn Ave / Danforth Ave,Woodbine Corridor 
+578,University of Toronto Scarborough,Highland Creek 
+579,University Ave / Richmond St W,Bay Street Corridor 
+580,Elm St/ University Ave (East Side),Bay Street Corridor 
+581,909 Yonge St,Rosedale-Moore Park 
+582,St Clair W Subway - Heath Entrance,Forest Hill South 
+583,Bloor St W / Indian Rd,High Park North 
+584,Bloor St W / Pacific Ave,High Park North 
+585,Danforth Ave / Dewhurst Blvd,Danforth 
+586,Bloor St W / Brock Ave,Dufferin Grove 
+587,1 Market St - SMART,Waterfront Communities-The Island 
+588,Kings Mill Park,Kingsway South 
+589,Amroth Ave / Danforth Ave,East End-Danforth 
+590,285 Victoria St,Church-Yonge Corridor 
+591,Beaty Ave / Queen St W,South Parkdale 
+592,Kilgour Rd / Rumsey Rd,Bridle Path-Sunnybrook-York Mills 
+593,Sunnybrook Health Centre - L Wing,Bridle Path-Sunnybrook-York Mills 
+594,Sunnybrook Health Centre - S Wing,Bridle Path-Sunnybrook-York Mills 
+595,Dundas St W / St Helen Ave - SMART,Dufferin Grove 
+596,Spadina Ave / Sussex Ave - SMART,University 
+597,Simcoe St / Dundas St W - SMART,Kensington-Chinatown 
+598,Yonge St / Woburn Ave - SMART,Lawrence Park North 
+599,Yonge St / Montgomery Ave - SMART,Yonge-Eglinton 
+600,1525 Dundas St,Little Portugal 
+601,York University (Glendon Campus) - SMART,Bridle Path-Sunnybrook-York Mills 
+602,1303 Yonge St - SMART,Rosedale-Moore Park 
+603,York University Station (South) - SMART,York University Heights 
+604,York University Station (North),York University Heights 
+605,Princes Gate / Nunavut Dr,Niagara 
+606,25 Booth Ave,South Riverdale 
+607,Bathurst St / Front St W,Waterfront Communities-The Island 
+608,Bay St / Harbour St (West),Waterfront Communities-The Island 
+609,Bay St / Harbour St (East),Waterfront Communities-The Island 
+610,King / Brant,Waterfront Communities-The Island 
+611,Lower Jarvis / The Esplanade,Waterfront Communities-The Island 
+612,Bloor / Gladstone - SMART,Dovercourt-Wallace Emerson-Junction 
+613,High Park Blvd / Parkside Dr,High Park-Swansea 
+614,20 Eaton,Danforth 
+615,Christie St / Dupont St,Annex 
+616,85 Lee Ave,The Beaches 
+617,Mutual St / Shuter St (Arena Gardens) - SMART,Church-Yonge Corridor 
+0,Beverly  St / Dundas St W,Kensington-Chinatown 
+1,Simcoe St / Wellington St W,Bay Street Corridor 
+2,University Ave / Gerrard St W,Kensington-Chinatown 
+3,Bremner Blvd / Spadina Ave,
+4,Simcoe St / Dundas St W,Kensington-Chinatown 
+5,424 Wellington St. W,Waterfront Communities-The Island 
+6,Widmer St / Adelaide St ,Waterfront Communities-The Island 
+7,Dockside Dr / Queens Quay E (Sugar Beach),
+8,Princess St / Adelaide St,Moss Park 
+9,HTO Park (Queen's Quay W),Waterfront Communities-The Island 
+10,College St W / Huron St,Kensington-Chinatown 
+11,Queens Park / Bloor St W,Bay Street Corridor 
+12,Bloor St / Brunswick Ave,Dufferin Grove 
+13,Dundas St / Yonge St,Bay Street Corridor 
+14,Ontario Place Blvd / Remembrance Dr,
+15,College St W / Borden St,University 
+16,Front St / Bay St (North Side),Bay Street Corridor 
+17,Sherbourne St / Wellesley St,North St.James Town 
+18,Rusholme Park Cres / College St W,Little Portugal 
+19,Fort York  Blvd / Capreol Crt,Waterfront Communities-The Island 
+20,College St W / Markham St,Palmerston-Little Italy 
+21,University Ave / College St,Bay Street Corridor 
+22,College St W / Major St,University 
+23,College St W / Crawford St,Trinity-Bellwoods 
+24,St George St / Bloor St W,University 
+25,Victoria St / Gould St (Ryerson University),
+26,Seaton St / Dundas St E,Moss Park 
+27,Beverly St / College St W,Kensington-Chinatown 
+28,University Ave / King St W,Bay Street Corridor 
+29,Bay St / Bloor St W,
+30,Temperance St / Yonge St,
+31,Parliament St / Bloor St E,
+32,Wellesley St E / Yonge St Green P,
+33,Queen St W / Shaw St,Kensington-Chinatown 
+34,Spadina Ave / Sussex Ave,University 
+35,Front St / Yonge St (Hockey Hall of Fame),Waterfront Communities-The Island 
+36,Queen St E / Berkely St,Moss Park 
+37,Lower Jarvis St / The Esplanade,Waterfront Communities-The Island 
+38,Bathurst St / Queens Quay W,
+39,Bloor GO / UP Station/ Rail Path,
+40,Essex St / Christie St,Annex 
+41,25 York St (ACC/Union Station South),Waterfront Communities-The Island 
+42,Boston Ave / Queen St E,South Parkdale 
+43,Woodbine Subway Green P (Cedarvale Ave),
+44,Castle Frank Station,
+45,Margueretta St / College St W,
+46,Stephenson Ave / Main St,
+47,Ossington Ave / College St W,Palmerston-Little Italy 
+48,Landsdowne Subway Green P,
+49,Bay St / Davenport Rd,
+50,Wellesley St E / Yonge St (Green P),
+51,Beverly St / College St,Kensington-Chinatown 
+52,Michael Sweet Ave / St. Patrick St,
+53,Lakeshore Blvd W / Ellis Ave,South Parkdale 
+54,Lakeshore Blvd W / The Boulevard Club,South Parkdale 
+55,Dovercourt Rd / Harrison St - SMART,Trinity-Bellwoods 
+56,Roxton Rd / College St,
+57,Lake Shore Blvd W / Ontario Dr(Ontario Place),
+58,Borden St / Bloor St W - SMART,University 
+59,Lansdowne Subway Green P,
+60,York St / King St W - SMART,
+61,Queen St E / Larchmount Ave,
+62,Margueretta St / College St,
+63,Fringe Next Stage - 7219,
+64,Summerhill Ave / MacLennan Ave - SMART,Rosedale-Moore Park 
+65,Pears Av / Avenue Rd,
+66,St. James Park (King St. E.),
+67,Lower Spadina Ave / Lakeshore Blvd,Waterfront Communities-The Island 
+68,25 York St   Union Station South,Waterfront Communities-The Island 
+69,Ontario Place Blvd / Lakeshore Blvd W,Niagara 
+70,Lakeshore Blvd W / Windermere Ave,South Parkdale 
+71,Lakeshore Blvd W / Ontario Dr,Niagara 
+72,King St W / Charlotte St,
+73,Lakeshore Blvd E / Parliament St,
+74,Davenport Rd / Lansdowne Ave.,Corso Italia-Davenport 
+75,Lakeshore Blvd E /Leslie St,South Riverdale 
+76,123 Queen St W,
+77,King St W / Portland St,Bay Street Corridor 
+78,King St W / Brant St,Bay Street Corridor 
+79,Gailbraith Rd / King s College Cr. (U of T),
+80,Roehampton Ave / Yonge St,
+81,Queen St. E / Woodward Av,Greenwood-Coxwell 
+82,Lakeshore Blvd E / Knox Ave,The Beaches 
+83,Coxwell Ave/  Lakeshore Blvd E,The Beaches 
+84,King St W / Charlotte St (West),Waterfront Communities-The Island 
+85,Gailbraith Rd / King’s College Cr. (U of T),
+86,Chester Station (Green P),
+87,Wellington St W / Bathurst St,Bay Street Corridor 
+88,York St / Harbour St,Waterfront Communities-The Island 
+89,York St / Lake Shore Blvd W,Mimico 
+90,Shaw St / Dupont St,
+91,Belmont St / Davenport Rd - SMART,
+92,Westmount Ave / St Clair Ave W - SMART,Junction Area 
+93,Sheridan Ave / Dundas St W - SMART,
+94,1 Market St,Waterfront Communities-The Island 
+95,Bloor St W / Gladstone Ave,Little Portugal 
+96,Lynn Williams St / East Liberty St,Niagara 
+97,Shaw St / Essex St,Dovercourt-Wallace Emerson-Junction 
+98,University Ave / Gerrard St W (West Side),Bay Street Corridor 
+99,Elm St/ University Ave (East),Bay Street Corridor 
+100,Rosedale Station,
+101,Torrens Ave / Broadview Ave,
+102,Riverview Gardens,
+103,O'Connor Dr / Curity Ave,O'Connor-Parkview 
+104,Braemar Ave / Eglinton Ave W -SMART,Yonge-Eglinton 
+105,Greenwood Subway Station,
+106,Holland Park Ave / Oakwood Ave,
+107,Guildwood GO Station (North),Guildwood 
+108,135 Queen’s Wharf - SMART,Waterfront Communities-The Island 
+109,Mutual St / Shuter St,
+110,25 York St â€“ Union Station South,Waterfront Communities-The Island 
+111,Lake Shore Blvd E / Cherry St,South Riverdale 
+112,Gailbraith Rd / KingGÃ‡Ã–s College Cr. (U of T),
+113,Greenwood Subway Station - SMART,
+114,Sheridan Ave / Dundas St W,
+115,25 York St GÃ‡Ã´ Union Station South,Waterfront Communities-The Island 
+116,Riverview Gardens - SMART,
+117,25 York St GÇô Union Station South,Waterfront Communities-The Island 
+118,Gailbraith Rd / KingGÇÖs College Cr. (U of T),
